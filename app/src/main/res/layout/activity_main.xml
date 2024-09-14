@@ -9,7 +9,7 @@
 
     <View
         android:id="@+id/view37"
-        android:layout_width="47dp"
+        android:layout_width="46dp"
         android:layout_height="47dp"
         android:background="#91b0af"
         app:layout_constraintBottom_toBottomOf="parent"
